@@ -1,2 +1,2 @@
-My sec README 
-Another README update from GitHub.com
+My sec README  
+README update from GitHub.com
